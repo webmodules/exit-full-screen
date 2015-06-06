@@ -1,6 +1,6 @@
 {
   "name": "exit-full-screen",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "./dist/exit-full-screen.js",
   "dependencies": {},
